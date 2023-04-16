@@ -5,7 +5,8 @@ Accurate targeting of brain areas for stimulation and/or electrophysiological re
 
 I have presented a noncommercial open source graphical software for its application (MATLAB based reconstruction for recording and stimulation or MATres).
 
-For more detail please see paper(https://www.sciencedirect.com/science/article/abs/pii/S0165027023000705)
+For more detail please see paper titled "A novel methodology for exact targeting of human and non-human primate brain structures and skull implants using atlas-based 3D reconstruction" with DOI: https://doi.org/10.1016/j.jneumeth.2023.109851
+(https://www.sciencedirect.com/science/article/abs/pii/S0165027023000705)
 
 
 # Screenshot of the designed software package:
