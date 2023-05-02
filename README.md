@@ -8,6 +8,10 @@ I have presented a noncommercial open source graphical software for its applicat
 For more details, please see paper titled "A novel methodology for exact targeting of human and non-human primate brain structures and skull implants using atlas-based 3D reconstruction" with DOI: https://doi.org/10.1016/j.jneumeth.2023.109851
 (https://www.sciencedirect.com/science/article/abs/pii/S0165027023000705)
 
+For more details please see following video:
+https://www.youtube.com/watch?v=V7A9hZUE7-w
+
+
 
 # Screenshot of the designed software package:
 
