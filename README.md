@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=V7A9hZUE7-w
 # Screenshot of the designed software package:
 
 
+![1](https://user-images.githubusercontent.com/130893427/235866664-efc75884-9dc3-4b56-be53-23b4c7d8fd22.PNG)
+![2](https://user-images.githubusercontent.com/130893427/235866678-f62f2b70-dfbe-4b1d-8cd8-fd142a5df240.PNG)
+![3](https://user-images.githubusercontent.com/130893427/235866683-616d03bc-046a-4343-ac37-ec055079b072.PNG)
