@@ -1,4 +1,4 @@
-# MATres (Version 1.0)  ([MATres_V_2](https://github.com/fmnh/MATres-V2.0) is now availbale)
+# MATres (Version 1.0)  ([MATres Version 2.0](https://github.com/fmnh/MATres-V2.0) is now availbale)
 
 
 
